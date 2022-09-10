@@ -44,37 +44,37 @@
         "company": "Central Zone Referees ",
         "title": "Hockey Referee",
         "years": "September 2016 - Present",
-        "description1": "Demonstrate leadership qualities and ability to work as part of a dynamic team",
-        "description2": "Officiate Junior A, B, Midget and Bantam Hockey Teams",
+        "description1": "Demonstrate leadership qualities and ability to work as part of a dynamic team.",
+        "description2": "Officiate Junior A, B, Midget and Bantam Hockey Teams.",
         "description3": "Enforce all rules and regulations of Hockey Canada are followed.",
         "description4": "Communicate professionally with players, coaches, and parents. ",
         "description5": "Calmly interact in high stressed, difficult situations. ",
         "description6": "Effectively make quick and hard decisions.",
-        "description7": "Manage conflicts between attendees"
+        "description7": "Manage conflicts between attendees."
       },
       {
         "company": "Banana Republic Factory ",
         "title": "Sales Consultant",
         "years": "January 2020 - August 2021",
-        "description1": "Acknowledge and assist customers; locate merchandise effectively using various methods.",
-        "description2": "Support sales floor, fitting room, check out and back of house processes.",
-        "description3": "Promote loyalty by educating customers about products and loyalty programs.",
-        "description4": "Cashiering and billing customers.",
-        "description5": "Actively seeking out and engaging with customers in the store",
-        "description6": "Handling all returns and customer issues courteously and professionally",
-        "description7": "Perform other duties as assigned"
+        "description1": "Acknowledged and assisted customers; located merchandise effectively using various methods.",
+        "description2": "Supported sales floor, fitting rooms, check out and back of house processes.",
+        "description3": "Promoted loyalty by educating customers about products and loyalty programs.",
+        "description4": "cashiered and billed customers.",
+        "description5": "Actively seeked out and engaged with customers in the store.",
+        "description6": "Handled all returns and customer issues courteously and professionally.",
+        "description7": "Performed other duties as assigned."
       },
       {
         "company": "PRECISION HYUNDAI",
         "title": "Concierge ",
         "years": "April 2020 - October 2020",
-        "description1": "Detailing the interior and exterior of vehicles that come to the dealership for maintenance",
-        "description2": "Moving cars between the storage facility and display area.",
-        "description3": "Ensure that customers get to and from dealership safely and professionally.",
-        "description4": "Driving off-site to run dealership errands when required.",
-        "description5": "Ensure all telephone calls are answered promptly, courteously and professionally.",
-        "description6": "Receive and document payment tendered by customers on behalf of sales, service and parts department.",
-        "description7": "Makes appointments for customer services over the phone"
+        "description1": "Detailed the interior and exterior of vehicles that come to the dealership for maintenance.",
+        "description2": "Moved cars between the storage facility and display area.",
+        "description3": "Ensured that customers get to and from dealership safely and professionally.",
+        "description4": "Drived off-site to run dealership errands when required.",
+        "description5": "Ensured all telephone calls are answered promptly, courteously and professionally.",
+        "description6": "Received and document payment tendered by customers on behalf of sales, service and parts department.",
+        "description7": "Made appointments for customer services over the phone."
       }
     ],
     "skills": [
@@ -84,34 +84,34 @@
       },
       {
         "name": "ReactJS",
-        "level": "70%"
-      },
-      {
-        "name": "HTML",
-        "level": "80%"
-      },
-      {
-        "name": "CSS",
-        "level": "70%"
+        "level": "75%"
       },
       {
         "name": "JavaScript",
-        "level": "70%"
-      },
-      {
-        "name": "SQL",
         "level": "75%"
       },
       {
         "name": "NodeJS",
-        "level": "65%"
+        "level": "70%"
+      },
+      {
+        "name": "SQL",
+        "level": "80%"
+      },
+      {
+        "name": "HTML",
+        "level": "90%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
       },
       {
         "name": "Python",
         "level": "40%"
       },
       {
-        "name": "Communication",
+        "name": "Problem Solving",
         "level": "90%"
       },
       {
@@ -119,7 +119,7 @@
         "level": "90%"
       },
       {
-        "name": "Critical Thinking",
+        "name": "Communication",
         "level": "90%"
       }
     ]
