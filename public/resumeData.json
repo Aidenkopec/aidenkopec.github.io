@@ -2,9 +2,9 @@
   "main": {
     "name": "Aiden Kopec",
     "occupation": "Software Developer",
-    "description": "I have a passion for building software that is user friendly and easy to use. I started as a self taught developer till I started my education at the Southern Institute Of Technology",
+    "description": "My passion for software is based off of a user friendly interface for all levels of user applications. I started as a self taught developer till I started my education at the Southern Alberta Institute Of Technology",
     "image": "",
-    "bio": "I am a athlete at heart with an entrepreneurial spirit, born in Calgary Alberta. I've been creating software for over 2 years now and have just completed my education. I've came to enjoy languages such as React, NodeJS, Java and SQL and starting to try new technologies as Machine Learning ",
+    "bio": " I have an entrepreneurial spirit that was born from my passion for eCommerce.  At the age of 15, I started up my own eCommerce company, Blue Rock Jewelry that focused on retail fashion.  I had to create and implement a website that provided products and services that fulfilled customer orders online.  I then became involved in financial stocks markets, crypto and other eCommerce businesses.  This fuelled a passion for software development that led me to pursue my diploma in Software Development at Southern Alberta Institute of Technology (SAIT). ",
     "contactmessage": "",
     "email": "aidenkopec@icloud.com",
     "phone": "403-831-4830",
@@ -33,10 +33,10 @@
     "skillmessage": "Here are some of the skills I have acquired over the years!",
     "education": [
       {
-        "school": "Southern Institute of Technology",
+        "school": "Southern Alberta Institute of Technology (SAIT).",
         "degree": "Diploma in Software Development",
-        "graduated": "December 2023",
-        "description": "I started my journey at SAIT in September of 2020, I had year of software experience from online courses in Python. I enrolled at SAIT because I had some friends recommend the school to me and I also wanted to improve my software skills. During my time there I was able to excel in my class and graduate with an GPA: 3.88 and receive a honors reward from Phi Theta Kappa Honor Society"
+        "graduated": "September 2020 - Present",
+        "description": "Currently at SAIT perusing my Diploma in Software Development. Expected to graduate In December 2022. I have received an Honors reward from Phi Theta Kappa Honor Society. "
       }
     ],
     "work": [
@@ -54,7 +54,7 @@
       },
       {
         "company": "Banana Republic Factory ",
-        "title": "Stylist",
+        "title": "Sales Consultant",
         "years": "January 2020 - August 2021",
         "description1": "Acknowledge and assist customers; locate merchandise effectively using various methods.",
         "description2": "Support sales floor, fitting room, check out and back of house processes.",
@@ -66,7 +66,7 @@
       },
       {
         "company": "PRECISION HYUNDAI",
-        "title": "Lot Porter ",
+        "title": "Concierge ",
         "years": "April 2020 - October 2020",
         "description1": "Detailing the interior and exterior of vehicles that come to the dealership for maintenance",
         "description2": "Moving cars between the storage facility and display area.",
